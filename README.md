@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# feedbackloop
-=======
 <!-- README.md -->
 # On-Chain Feedback DApp
 
@@ -159,4 +156,5 @@ This project uses a smart contract as the source of truth for feedback data and 
 
 This repository provides a clear reference for integrating a feedback-oriented smart contract with a modern Web3 frontend stack. It can serve as a starting point or template for any project that needs transparent, on-chain feedback capture on the Flare network or other EVM-compatible chains.
 
->>>>>>> 0348858 (feat: initialize project with Next.js, TypeScript, and Tailwind CSS setup)
+
+# feedbackloop
