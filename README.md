@@ -6,8 +6,9 @@
 - **Network**: Flare Coston2 Testnet  
 - **Contract Address**: `0x6048B2c8d60FA2Fbd14aD52dB27a65cb33A420D9`  
 - **Explorer**: https://coston2-explorer.flare.network/address/0x6048B2c8d60FA2Fbd14aD52dB27a65cb33A420D9
+<img width="1512" height="982" alt="Screenshot 2025-11-28 at 1 53 01 PM" src="https://github.com/user-attachments/assets/ebfc7763-85d3-49bd-a5bf-bc27b1c3dfcc" />
 
----![Uploading Screenshot 2025-11-28 at 1.53.01 PM.png…]()
+---
 
 
 ## Description
